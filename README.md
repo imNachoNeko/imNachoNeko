@@ -172,6 +172,16 @@ me.sayHi();
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imNachoNeko/imNachoNeko/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p>
+  <em>Generated automatically for both light and dark themes via the <a href="https://github.com/Platane/snk">snk</a> GitHub Actions workflow.</em>
+</p>
+
+<p>
+  <a href="https://raw.githubusercontent.com/imNachoNeko/imNachoNeko/output/github-contribution-grid-snake.svg">Light mode preview</a>
+  ·
+  <a href="https://raw.githubusercontent.com/imNachoNeko/imNachoNeko/output/github-contribution-grid-snake-dark.svg">Dark mode preview</a>
+</p>
+
 </div>
 
 <br/>
