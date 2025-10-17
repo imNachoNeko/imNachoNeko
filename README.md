@@ -1,179 +1,300 @@
+<!-- Header Banner with Animated Typing -->
 <div align="center">
-
-<!-- 动态打字效果标题 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=你好啊！👋+我是+NachoNeko;高中生+%7C+代码爱好者+%7C+创意实现者" alt="Typing SVG" />
-
-<!-- 波浪分隔线 -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave Animation" />
+  
+  <!-- Animated Header Image -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NachoNeko&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=High%20School%20Student%20|%20Creative%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50" alt="Header" />
+  
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+my+digital+playground!+%F0%9F%9A%80;Building+amazing+things+one+commit+at+a+time;Turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
-## 🎯 关于我
+<br/>
 
-```typescript
-const NachoNeko = {
-    identity: "高中生 & 业余开发者",
-    location: "🌏 中国",
-    status: "🚀 探索代码的无限可能",
-    interests: ["💻 编程", "🎨 创意项目", "🔧 开发小工具"],
-    currentFocus: "建立我的开源世界",
-    funFact: "代码写得好，bug 少不了 😄"
-};
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🎭 About Me
+
+```javascript
+class Developer {
+    constructor() {
+        this.name = "NachoNeko";
+        this.role = "High School Student & Aspiring Developer";
+        this.location = "🇺🇸 United States";
+        this.passions = ["Coding", "Building Cool Stuff", "Problem Solving"];
+        this.currentStatus = "🚀 Embarking on my open source journey";
+        this.lifePhilosophy = "Dream in code, live in pixels";
+    }
+    
+    sayHi() {
+        console.log("Thanks for dropping by! Let's create something awesome together 🌟");
+    }
+}
+
+const me = new Developer();
+me.sayHi();
 ```
 
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
 <div align="center">
 
-## 💫 我的技能领域
+## 💻 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,linux&theme=dark" alt="技能图标" />
+### 🎯 Currently Using
 
-### 🌱 正在学习中...
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,docker&theme=dark" alt="学习中的技能" />
+### 🌱 Learning & Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### 🛠️ Tools & Environment
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</p>
 
 </div>
 
----
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-## 📊 GitHub 统计数据
+## 📊 GitHub Analytics
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imNachoNeko&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=61DAFB&text_color=FFF" alt="GitHub Stats" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imNachoNeko&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imNachoNeko&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</p>
 
-<!-- GitHub Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imNachoNeko&theme=radical&hide_border=true&background=0D1117&stroke=A277FF&ring=A277FF&fire=FFB86C&currStreakLabel=FFB86C" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imNachoNeko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</p>
 
 </div>
 
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
 <div align="center">
 
-<!-- 最常用的语言 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imNachoNeko&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFF" alt="Top Languages" />
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=imNachoNeko&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 
 </div>
 
----
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-## 🏆 GitHub 成就
+## 📈 Contribution Graph
 
-<img src="https://github-profile-trophy.vercel.app/?username=imNachoNeko&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophy" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imNachoNeko&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" alt="Contribution Graph" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## 📈 贡献图表
+## 🐍 Watch the Snake Eat My Contributions!
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imNachoNeko&bg_color=0D1117&color=A277FF&line=61DAFB&point=FFB86C&area=true&hide_border=true" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
----
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-## 🎨 创作理念
-
-> ### *"用代码描绘想象，用创意改变世界"*
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 项目方向
-
-虽然我的 GitHub 账号刚刚起步，但我正在积极探索以下领域：
+## 🎯 What I'm Building
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔨 工具开发
-- 实用的命令行工具
-- 自动化脚本
-- 效率提升小程序
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 有趣项目
-- 创意小游戏
-- 交互式网页
-- 实验性应用
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 学习笔记
-- 技术文档整理
-- 代码示例收集
-- 开发经验分享
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Web 开发
-- 个性化网站
-- 前端小组件
-- 响应式设计
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/console.png" alt="Tools" width="65" />
+      <br /><b>🛠️ Developer Tools</b>
+      <br />CLI utilities<br />Automation scripts<br />Productivity boosters
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/controller.png" alt="Games" width="65" />
+      <br /><b>🎮 Fun Projects</b>
+      <br />Mini games<br />Interactive experiences<br />Creative experiments
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" alt="Web" width="65" />
+      <br /><b>🌐 Web Apps</b>
+      <br />Modern websites<br />Responsive designs<br />UI components
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/learning.png" alt="Learning" width="65" />
+      <br /><b>📚 Learning</b>
+      <br />Code snippets<br />Tech notes<br />Knowledge sharing
+    </td>
+  </tr>
 </table>
 
 </div>
 
----
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-## 📫 联系方式
+## 💡 Philosophy
 
-想要一起交流技术或者合作项目？欢迎联系我！
+> *"Code is poetry written in logic"*
+> 
+> *"Every commit is a step forward"*
+> 
+> *"Build, break, learn, repeat"*
 
-[![GitHub](https://img.shields.io/badge/GitHub-imNachoNeko-181717?style=for-the-badge&logo=github)](https://github.com/imNachoNeko)
-[![Email](https://img.shields.io/badge/Email-联系我-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<br/>
 
-<!-- 访客计数 -->
-<img src="https://komarev.com/ghpvc/?username=imNachoNeko&color=blueviolet&style=for-the-badge&label=访客数" alt="访客计数" />
+### 🌟 My Journey Just Began
+
+Though my GitHub account is freshly minted, I'm excited to fill it with innovative projects, creative solutions, and meaningful contributions to the open-source community. Stay tuned for what's coming!
 
 </div>
 
----
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-### 💭 每日一言
+## 📫 Let's Connect!
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+Want to chat about tech, collaborate on a project, or just say hi? Reach out!
+
+<p align="center">
+  <a href="https://github.com/imNachoNeko">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=imNachoNeko&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
----
+<br/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-### 🎵 编码时刻
+### 💭 Random Dev Quote
 
-*当前状态：探索中 🚀 | 学习中 📚 | 创造中 ✨*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer Wave" />
+</div>
 
-<!-- 底部标语 -->
-**✨ 每一行代码都是通往梦想的阶梯 ✨**
+<br/>
 
-*⭐ 如果你喜欢我的项目，别忘了给个星标哦！⭐*
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<div align="center">
+
+### 🎵 Current Vibe
+
+```ascii
+♪♫ Coding Mode: [███████████████████░] 95% ♫♪
+   🎧 Background: Lo-fi Beats & Synthwave
+   ☕ Energy Level: Caffeinated ⚡
+   🚀 Status: Building the future, one line at a time
+```
+
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
+</div>
+
+<div align="center">
+
+### ✨ *"The best way to predict the future is to create it"* ✨
+
+**Made with 💜 and lots of ☕**
+
+*⭐ If you find my work interesting, drop a star! ⭐*
 
 </div>
