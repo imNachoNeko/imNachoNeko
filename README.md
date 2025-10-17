@@ -3,9 +3,9 @@
   
   <!-- Animated Header Image -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NachoNeko&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=High%20School%20Student%20|%20Creative%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=180&section=header&text=NachoNeko&fontSize=42&fontColor=1F2328&animation=twinkling&fontAlignY=32&desc=High%20School%20Student%20|%20Creative%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=180&section=header&text=NachoNeko&fontSize=42&fontColor=1F2328&animation=twinkling&fontAlignY=32&desc=High%20School%20Student%20|%20Creative%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=50" alt="Header" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=180&section=header&text=NachoNeko&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=High%20School%20Student%20%7C%20Creative%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0%2C2%2C3&height=180&section=header&text=NachoNeko&fontSize=42&fontColor=1F2328&animation=twinkling&fontAlignY=32&desc=High%20School%20Student%20%7C%20Creative%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0%2C2%2C3&height=180&section=header&text=NachoNeko&fontSize=42&fontColor=1F2328&animation=twinkling&fontAlignY=32&desc=High%20School%20Student%20%7C%20Creative%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50" alt="Header" />
   </picture>
   
   <!-- Animated Typing Text -->
@@ -315,9 +315,9 @@ Want to chat about tech, collaborate on a project, or just say hi? Reach out!
 <!-- Footer Wave -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=120&section=footer">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=120&section=footer" alt="Footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=120&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0%2C2%2C3&height=120&section=footer">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0%2C2%2C3&height=120&section=footer" alt="Footer" />
   </picture>
 </div>
 
