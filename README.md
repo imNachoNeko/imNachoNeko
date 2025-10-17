@@ -172,16 +172,6 @@ me.sayHi();
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imNachoNeko/imNachoNeko/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p>
-  <em>Generated automatically for both light and dark themes via the <a href="https://github.com/Platane/snk">snk</a> GitHub Actions workflow.</em>
-</p>
-
-<p>
-  <a href="https://raw.githubusercontent.com/imNachoNeko/imNachoNeko/output/github-contribution-grid-snake.svg">Light mode preview</a>
-  ·
-  <a href="https://raw.githubusercontent.com/imNachoNeko/imNachoNeko/output/github-contribution-grid-snake-dark.svg">Dark mode preview</a>
-</p>
-
 </div>
 
 <br/>
@@ -264,7 +254,7 @@ Want to chat about tech, collaborate on a project, or just say hi? Reach out!
   <a href="https://github.com/imNachoNeko">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:imnachoneko@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.com">
